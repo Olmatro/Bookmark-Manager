@@ -1,0 +1,28 @@
+Author 	      : Jay Rambhia
+email 	      : jayrambhia777@gmail.com
+Git 	        : https://github.com/jayrambhia
+gist 	        : https://gist.github.com/jayrambhia
+@jayrambhia   : http://twitter.com/jayrambhia
+Blog          : http://jayrambhia.wordpress.com
+==================================================
+Name	        : Bookmark-Manager
+version	      : 0.2
+gist 	        : https://gist.github.com/1719957
+compatibility : Linux (Ubuntu tested)
+
+Bookmark-Manager contains three python scripts.
+bookmarkFirefox
+bookmarkChrome
+bookmarkreader
+
+HOW TO:
+1. To import all the bookmarks from Firefox:
+    $ python bookmarkFirefox.py
+    
+2. To import all the bookmarks from Google-Chrome:
+    $ python bookmarkChrome.py
+    
+3. To view all the saved bookmarks:
+    $ python bookmarkreader.py        
+
+
