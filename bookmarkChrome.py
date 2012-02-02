@@ -75,10 +75,7 @@ def getBookmarkDict(filename):
 		bookmark_dict = {}
 	for key in f.keys():
 		bookmark_dict[key] = pickle.loads(f[key])
-	if f.has_key('@author@'):
-		name, email, add_date = pickle.loads(f['@author@'])
-		f['@author@'] = pickle.dumps((name, email, add_date))
-	else:
+	if not f.has_key('@author@'):
 		name = 'Jay Rambhia'
 		email = 'jayrambhia777@gmail.com'
 		add_date = time.time()
