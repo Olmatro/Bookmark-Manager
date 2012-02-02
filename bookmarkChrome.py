@@ -23,7 +23,9 @@ def __getPath():
 	for path, dirs, files in os.walk(os.environ['HOME']):
 		if 'Default' in dirs:
 			if os.path.split(path)[-1] == 'google-chrome':
-				break
+				list_dir =  os.listdir(os.path.join(path,'Default'))
+				if 'Bookmarks' in list_dir:
+					break
 			
 	dir_path = os.path.join(path,'Default')
 	
