@@ -5,8 +5,10 @@ Git 	: https://github.com/jayrambhia
 gist 	: https://gist.github.com/jayrambhia
 =============================================
 Name	: bookmarkreader
+Repo    : Bookmark-Manager
+git     : https://github.com/jayrambhia/Bookmark-Manager
 version	: 0.2
-gist 	: https://gist.github.com/1719957
+gist 	: https://gist.github.com/1719957 # old gist. Supports version 0.1. Does not support chrome.
 '''
 
 import gdbm
