@@ -6,6 +6,7 @@ gist 	: https://gist.github.com/jayrambhia
 =============================================
 Name	: bookmarkChrome
 Repo    : Bookmark-Manager
+Git     : https://github.com/jayrambhia/Bookmark-Manager
 version	: 0.2
 gist 	: https://gist.github.com/1719957 # old gist. Supports version 0.1. Does not support Chrome
 '''
