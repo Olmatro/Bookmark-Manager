@@ -1,15 +1,15 @@
-Author 	      : Jay Rambhia
-email 	      : jayrambhia777@gmail.com
-Git 	        : https://github.com/jayrambhia
+Author 	      	: Jay Rambhia
+email 	      	: jayrambhia777@gmail.com
+Git 	      	: https://github.com/jayrambhia
 gist 	        : https://gist.github.com/jayrambhia
-@jayrambhia   : http://twitter.com/jayrambhia
-Blog          : http://jayrambhia.wordpress.com
+@jayrambhia   	: http://twitter.com/jayrambhia
+Blog          	: http://jayrambhia.wordpress.com
 ==================================================
 Name	        : Bookmark-Manager
-version	      : 0.2
+version	      	: 0.2
 gist 	        : https://gist.github.com/1719957
-compatibility : Linux (Ubuntu tested)
-
+compatibility 	: Linux (Ubuntu tested)
+ 
 Things to do:
   1. save multiple tags for multiple tagged bookmarks
   2. New script to import bookmarks from firefox and chrome simultaneously.
